@@ -5,22 +5,25 @@ head>< !-- Спочатку нормалізатор --><link rel="stylesheet" h
 
 
 
-https: //fonts.gstatic.com
 
 
 
-
-
-body > {background-color: #FFFFFF
+.body {background-color: #FFFFFF
 font-family: "Roboto", sans-serif ;
-color: #434455}
+color: #434455 ;
+width: 1128px ;
+height: 1000px ;
+top: 1868px ;
+left: 156px;
+ border: 1px;
+}
 
 
 
-.tatel {width: 218px 
-   height:40px 
-   top: 1868px
-   left: 611px
+.tatel {width: 218px ;
+   height: 40px ;
+   top: 1868px;
+   left: 611px;
    styleName: Header 2;
       font-family: Roboto;
       font-size: 36px;
@@ -32,7 +35,7 @@ color: #434455}
 
 }
 
-section {width: 1128px height: 420px top: 1980px left: 156px border: 1px}
+.section {width: 1128px height: 420px top: 1980px left: 156px border: 1px}
 
 
 
