@@ -1,0 +1,37 @@
+< !DOCTYPE html><html lang="en">
+<head>(<https: //cdnjs.com/libraries/modern-normalize>)
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/modern-normalize@2.0.0/modern-normalize.min.css" > < !-- Потім ваші стилі --><link rel="stylesheet" href="./css/styles.css" /> </head>
+
+
+ .header {
+    background-color: #E7E9FC ;
+    border-bottom: 1px solid ;
+    Width : 1440px;
+    Height : 72px;
+ }
+  .header nav a {
+ Width Hug: 115px;
+  Height Fixed: 24px; 
+  Top: 24px;
+   Left: 156px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
