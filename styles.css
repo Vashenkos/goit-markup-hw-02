@@ -1,5 +1,5 @@
 
-.body {
+.bodyz {
 font-family: "Roboto", sans-serif;
 color: #434455
 background-color: #FFFFFF
@@ -20,7 +20,13 @@ display: flex;
    align-items: center;
    justify-content: flex-start;
    flex-direction: row;
-   gap: 0px;}
+   gap: 0px;
+font-weight: 700;
+   font-size: 18px;
+   line-height: 1.17;
+   letter-spacing: 0.03em;
+   text-transform: uppercase;
+   color: #4d5ae5;}
 
 .Studio{width: 71px;
 height: 21px;
@@ -38,6 +44,12 @@ display: flex;
    justify-content: flex-start;
    flex-direction: row;
    gap: 0px;
+   font-weight: 700;
+      font-size: 18px;
+      line-height: 1.17;
+      letter-spacing: 0.03em;
+      text-transform: uppercase;
+      color: #2e2f42;
 }
 
 .menu-heder { 
