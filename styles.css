@@ -1,10 +1,13 @@
-.bodyz { }
+.bodyz {"Roboto", sans-serif,
+color: #434455
+background-color: #FFFFFF }
 
 .header {}
 
 .nav-menu {}
 
 .webstudio {
+font-family: "Raleway", sans-serif
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -14,6 +17,7 @@ color: #4d5ae5;
 }
 
 .studio {
+font-family: "Raleway", sans-serif
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -21,7 +25,9 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #2e2f42;
 }
-.menu-heder:hover,:focus{}
+.menu-heder:hover,:focus{
+color; #404bbf
+}
 
 
 .menu-heder {font-weight: 500;
@@ -41,6 +47,7 @@ ul li {list-style: none;}
 .address-ul {}
 
 .address-malito {
+font-style: normal
 font-family: "Roboto", sans-serif;
 font-weight: 400;
     font-size: 16px;
@@ -48,14 +55,19 @@ font-weight: 400;
     letter-spacing: 0.02em;
     color: #434455;
 }
+.address-malito:hover,:focus {color; #404bbf}
+
 
 .address-tel {
+font-style: normal
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
+}
+.address-tel:hover,:focus {color; #404bbf
 }
 
 .mains {
