@@ -4,6 +4,9 @@ background-color: #FFFFFF }
 
 .header {}
 
+
+[span] {color: #2e2f42;}
+
 .nav-menu {}
 
 .webstudio {
@@ -194,7 +197,7 @@ color:#F4F4FD;
         line-height: 1.16667;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #2e2f42;
+        color: #2e2f42;}
 
 .webStudio-footer {
     font-family: "Raleway", sans-serif 
