@@ -176,7 +176,14 @@ text-align: center;}
 
 .section-5-li {}
 
-.footer {background: #2e2f42;}
+.footer {background: #2e2f42;
+font-family: "Raleway", sans-serif font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
 
 .footer-p {font-weight: 400;
 font-size: 16px;
@@ -196,7 +203,7 @@ color:#F4F4FD;
     color: #4d5ae5;
 }
 
-.webStudio-footer {
+span {
     font-family: "Raleway", sans-serif 
     font-weight: 700;
     font-size: 18px;
