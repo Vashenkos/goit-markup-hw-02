@@ -43,12 +43,12 @@ ul li {list-style: none;}
 
 .menu-li {}
 
-.address {}
+.address {font-style: normal}
 
 .address-ul {}
 
 .address-malito {
-font-style: normal
+
 font-family: "Roboto", sans-serif;
 font-weight: 400;
     font-size: 16px;
@@ -60,7 +60,6 @@ font-weight: 400;
 
 
 .address-tel {
-font-style: normal
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
