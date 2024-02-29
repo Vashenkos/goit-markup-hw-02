@@ -92,8 +92,8 @@ color: #fff;
 
 .button-order-service:hover,:focus{
 background-color: #404BBF
-cursor:pointer
-font-family: "Roboto", sans-serif
+cursor  pointer
+font-family "Roboto", sans-serif
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -193,8 +193,8 @@ color:#F4F4FD;
 }
 
 .studio-footer {
-    font-family: "Raleway", sans-serif font-weight: 700;
-    font-weight: 700;
+    font-family: "Raleway", sans-serif
+    font-weight 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
@@ -203,10 +203,9 @@ color:#F4F4FD;
 
 .webstudio-footer {
     font-family: "Raleway", sans-serif 
-    font-weight: 700;
+    font-weight 700;
         font-size: 18px;
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4d5ae5;
-}
+        color: #4d5ae5;}
