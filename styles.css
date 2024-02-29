@@ -131,11 +131,12 @@ color: #434455;}
     line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
-text-align: center;}
+text-align: center;
+text-transform: capitalize}
 
-.team-ul {}
+.team-ul {background-color: #FFFFFF}
 
-.eam-li {}
+.eam-li {background-color: #FFFFFF}
 
 .team-man {font-weight: 500;
     font-size: 20px;
