@@ -116,8 +116,12 @@ background-color: #4D5AE5
 
 .button:hover{background-color: #404BBF}
 .button:focus{background-color: #404BBF}
-.button-order-service:
-.button-order-service:{}
+.button-order-service:hover {
+    background-color: #404BBF;
+}
+.button-order-service:focus {
+    background-color: #404BBF;
+}
 
 
 
