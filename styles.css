@@ -7,7 +7,6 @@ background-color: #FFFFFF; }
 
 
 .studio:focus {
-color: #2e2f42;
 color: #404bbf;}
 
 .nav-menu {}
@@ -94,7 +93,7 @@ text-align: center;
 color: #fff;
 }
 
-.button-order-service:hover,:focus{
+.button-order-service {
 background-color: #404BBF;
 cursor: pointer;
 font-family: "Roboto", sans-serif;
@@ -180,7 +179,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;}
 
-.section-5 {}
 
 .section-5-ul {}
 
