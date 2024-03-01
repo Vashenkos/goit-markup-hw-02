@@ -33,9 +33,9 @@ color: #f4f4fd;
 }
 .menu-heder:hover 
 {
-color: #404bbf
+color: #404bbf;
 }
-.menu-heder:focus{color: #404bbf }
+.menu-heder:focus{color: #404bbf; }
 
 
 .menu-heder {font-weight: 500;
@@ -94,14 +94,14 @@ color: #fff;
 }
 
 .button-order-service:hover,:focus{
-background-color: #404BBF
-cursor  pointer
-font-family "Roboto", sans-serif;
+background-color: #404BBF;
+cursor: pointer;
+font-family: "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color: #fff;
+color: #ffffff;
 background-color: #4D5AE5
 }
 
