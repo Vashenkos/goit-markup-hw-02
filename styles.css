@@ -1,6 +1,6 @@
 body {
-font-family: "Roboto", sans-serif,
-color: #434455
+font-family: "Roboto", sans-serif;
+color: #434455;
 background-color: #FFFFFF }
 
 .header {}
@@ -12,17 +12,17 @@ color: #2e2f42}
 .nav-menu {}
 
 .webstudio {
-font-family: "Raleway", sans-serif
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
-line-height \: 1.17;
+line-height : 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
 
 .studio {
-font-family: "Raleway", sans-serif
+font-family: "Raleway", sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
@@ -58,12 +58,12 @@ ul li {list-style: none;}
 
 font-family: "Roboto", sans-serif;
 font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
 }
-.address-malito:hover,:focus {color; #404bbf}
+.address-malito:hover,:focus {color: #404bbf}
 
 
 .address-tel {
@@ -74,7 +74,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.address-tel:hover,:focus {color; #404bbf
+.address-tel:hover,:focus {color: #404bbf
 }
 
 .mains {
@@ -96,7 +96,7 @@ color: #fff;
 .button-order-service:hover,:focus{
 background-color: #404BBF
 cursor  pointer
-font-family "Roboto", sans-serif
+font-family "Roboto", sans-serif;
 font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
@@ -160,8 +160,8 @@ text-transform: capitalize}
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    text-transform: capitalize
-    color: #2e2f42;}
+    text-transform: capitalize;
+    color: #2e2f42; }
 
 .our-ul {}
 
