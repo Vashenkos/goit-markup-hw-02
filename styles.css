@@ -6,8 +6,9 @@ background-color: #FFFFFF; }
 .header {}
 
 
-span {
-color: #2e2f42;}
+.studio:focus {
+color: #2e2f42;
+color: #404bbf;}
 
 .nav-menu {}
 
