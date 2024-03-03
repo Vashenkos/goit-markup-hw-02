@@ -60,7 +60,7 @@ ul li {list-style: none;}
 
 .address-ul {}
 
-.address-malito {
+.address-tel-use {
 
 font-family: "Roboto", sans-serif;
 font-weight: 400;
@@ -69,10 +69,10 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.address-malito:hover,:focus {color: #404bbf}
+.address-tel-use:hover,:focus {color: #404bbf}
 
 
-.address-tel {
+.address-tel-use {
 font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 16px;
@@ -80,7 +80,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-.address-tel:hover,:focus {color: #404bbf
+.address-tel-use:hover,:focus {color: #404bbf
 }
 
 .mains {
